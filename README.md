@@ -1,8 +1,8 @@
 # Cat and Dog Image Classifier
-Description
+## Description
 Classify cat and dog images using TensorFlow 2.0 and Keras. Achieve at least 63% accuracy, with extra credit for 70%.
 
-Instructions
+## Instructions
 Cell 3: Set variables for image generators. Use ImageDataGenerator for train, validation, and test sets. Rescale tensors from 0-255 to 0-1. For test_data_gen, set shuffle=False.
 
 Cell 4: Plot five random training images using the plotImages function.
@@ -19,5 +19,5 @@ Cell 10: Use the model to predict if test images are cats or dogs. Visualize wit
 
 Cell 11: Run the final cell to check if the challenge is passed.
 
-Solution Link
+## Solution Link
 https://colab.research.google.com/github/freeCodeCamp/boilerplate-cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb#scrollTo=4IH86Ux_u7TZ&uniqifier=1
